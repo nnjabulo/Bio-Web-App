@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand&family=Ysabeau:wght@400;500&display=swap');
+
+body {
+  background: grey;
+  opacity: 50%;
+  padding: 20px;
+  color: black;
+  text-align: center;
+  font-family: 'Quicksand', sans-serif;
+font-family: 'Ysabeau', sans-serif;
+}
+
+h1 {
+  font-size: large;
+}
+p {
+  font-size : small;
+}
+a {
+  text-decoration: none;
+}
+.profile-img {
+  width: 70%;
+  border-radius: 50%;
+}
+
+.button {
+  display : block;
+  color: black;
+  padding: 30px;
+  background: white;
+  margin : 16px;
+  border-radius: 30px;
+  box-shadow: 10px 10px 5px black;
+}
